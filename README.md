@@ -1,4 +1,4 @@
-# Alexandre 👋
+# Alexandre-Lowawa-Gaspar 👋
 
 <h1>Resume</h1>
 
