@@ -2,7 +2,7 @@
 
 <h1>Resume</h1>
 
-#### Software Developer, with more than 1 years of development experience
+#### Software Developer, with more than 3 years of development experience
 Web, Desktop and Mobile. Has knowledge in functional programming, OOP,
 C#, Jquery, Javascript, Html, Css, Sql, Mysql, Clean
 Code, clean architecture, 3 camadas, scrum,etc.
