@@ -2,14 +2,11 @@
 
 <h1>Resume</h1>
 
-#### Software Developer, with more than 3 years of development experience
-Web, Desktop and Mobile. Has knowledge in functional programming, OOP,
-C#, Jquery, Javascript, Html, Css, Sql, Mysql, Clean
-Code, clean architecture, 3 camadas, scrum,etc.
-Note My focus is the BackEnd.
+#### Software Developer, with more than 2 years of development experience
 
-<h1>My languages focus are :</h1>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+Has knowledge in functional programming, OOP,
+C#, Jquery, Javascript, Html, Css, Sql, Mysql, Clean
+Code, clean architecture, N-Tier, agile methods,etc.
 
 <h1>About me</h1>
 
