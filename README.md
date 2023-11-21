@@ -2,7 +2,7 @@
 
 <h1>Resume</h1>
 
-#### Software Developer, with more than 2 years of development experience
+#### .NET Developer
 
 Has knowledge in functional programming, OOP,
 C#, Jquery, Javascript, Html, Css, Sql, Mysql, Clean
