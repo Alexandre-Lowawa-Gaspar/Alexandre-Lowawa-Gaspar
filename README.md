@@ -10,7 +10,6 @@ Code, clean architecture, N-Tier, agile methods,etc.
 
 <h1>About me</h1>
 
-**Alexandre-AGKing/Alexandre-AGKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Hi! They call me Alexandre Lowawa Gaspar, better known as Lowawa or AG-King,
 I'm a Fullstack Developer, currently working as a BackEnd developer,
 I'm addicted to development, I love solving problems, analysing code, learning
